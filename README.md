@@ -11,7 +11,7 @@ Running the script is simple! Just open a terminal in the folder where your scri
 ### Sample use of the script
 ```
 $ python calculator.py
-    Select operation.
+Select operation.
 1.Add
 2.Subtract
 3.Multiply
@@ -22,4 +22,3 @@ Enter second number: 4.7
 3.0 - 4.7 = -1.7000000000000002
 Let's do next calculation? (yes/no): no
 
-Process finished with exit code 0
